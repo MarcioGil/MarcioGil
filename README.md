@@ -35,3 +35,12 @@ Gosto de compartilhar conhecimento e aprender junto. Se você tem um projeto int
 ⚡ Curiosidade: além da programação, gosto de Cinema, Historia, Literaturas e Futebol.  
 
 ---
+
+📌 Projetos em Destaque
+Readme Card
+
+📊 GitHub Stats
+MarcioGil's GitHub stats
+
+🧠 Linguagens Mais Usadas
+Top Langs
