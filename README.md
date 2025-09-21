@@ -1,54 +1,48 @@
-# 👋 Olá, eu sou o Márcio Gil!
+# Márcio Gil | Desenvolvedor de Software & Entusiasta de IA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/márcio-gil-1b7669309)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-green?logo=github)](https://marciogil.github.io/meu-portfolio_profissional/)
-[![Email](https://img.shields.io/badge/Email-marciopaivagil@gmail.com-red?logo=gmail)](mailto:marciopaivagil@gmail.com)
-
-<img align="right" alt="Márcio Gil" width="180" src="https://private-us-east-1.manuscdn.com/sessionFile/1P1myL801siXFhiDKnXjGJ/sandbox/Rx5RTkjWeyVxAs7ZHyVYOn_1758479535000_na1fn_bGlua2VkaW5fYXZhdGFy.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMVAxbXlMODAxc2lYRmhpREtuWGpHSi9zYW5kYm94L1J4NVJUa2pXZXlWeEFzN1pIeVZZT25fMTc1ODQ3OTUzNTAwMF9uYTFmbl9iR2x1YTJWa2FXNWZZWFpoZEdGeS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=JdWoaHGEyf5GbyoH3JAyJVMWpdrIR8j8c0GzvIt5TdKkX4fNQRVhXmpMjVf-RJAWtDavs8aBxx--FoziNmWLkcXYetg03Sp~fzOlBN8hfLp0S0dyqxWvFmay8jSeLPSHFyPYLwAB5lyLZDrk7Tjro8PgcGF8-t3S8dPBy9XTkpgK6CeYPVQly5p9TLNHeC70pqIs3H29CGRQKVjBxEtNDmEV~lStBWNBpIgOyrWvdj-xXHCyaZc4-n0cNHf5GabDaltWEBUiFN819puSskS-YXx4X1vUVZl~adSm5bd7ELUxtlI6CoyvwfIU~58NBh5z-2bCpVIC7f08xJ1ioQnNFg__" />
-
-🎓 Estudante do **4º período de Engenharia de Software**  
-🚀 **Embaixador DIO Campus Expert**  
-💡 Explorando **IA Generativa** para acelerar meus estudos e criar soluções inovadoras  
+Olá! Sou estudante de Engenharia de Software e Embaixador DIO Campus Expert, apaixonado por transformar ideias em código e resolver problemas complexos. Atualmente, estou focado em desenvolvimento Full Stack e exploro o potencial da IA Generativa para criar soluções mais inteligentes e eficientes.
 
 ---
 
-## 🔭 O que você encontra por aqui
-- Projetos acadêmicos e pessoais de **Engenharia de Software**  
-- Explorações em **Desenvolvimento Web** e **Boas práticas de código**  
-- Experimentos com **IA Generativa** aplicados ao estudo e produtividade  
+### 🚀 Tecnologias & Ferramentas
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+🌱 **Estou me aprofundando em:** React, SQL Server e fundamentos de Cloud (Azure/AWS).
 
 ---
 
-## 🌱 Estou aprendendo
-- **Full Stack Development**  
-- **Cloud Computing**  
-- **IA Generativa** como ferramenta de produtividade e prototipagem  
+### 🔭 Projetos em Destaque
+
+Aqui estão alguns projetos que desenvolvi e que demonstram minhas habilidades.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🏁 **[Simulador de Corridas Mario Kart](link-para-o-seu-repo)** | Um simulador de corridas em console desenvolvido para aplicar conceitos de lógica de programação e manipulação de objetos. | `JavaScript`, `Node.js` |
+| 🌐 **[Meu Portfólio Profissional](link-para-o-seu-repo)** | Página de portfólio pessoal para apresentar minhas habilidades e projetos. | `HTML`, `CSS` |
+| 💡 **[NOME_DO_SEU_MELHOR_PROJETO_CSHARP]** | Breve descrição do seu melhor projeto em C#/.NET. | `C#`, `.NET`, `Entity Framework` |
 
 ---
 
-## 👯 Vamos colaborar?
-Adoro compartilhar conhecimento e aprender junto.  
-Se você tem um projeto interessante, uma ideia ou só quer trocar experiências, bora conversar!  
+### 📫 Como me Encontrar
+
+Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SEU-PORTFOLIO-AQUI/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciopaivagil@gmail.com)
 
 ---
 
-## 📫 Contato
-- 💼 [LinkedIn](https://linkedin.com/in/márcio-gil-1b7669309)  
-- 🌐 [Portfólio](https://marciogil.github.io/meu-portfolio_profissional/)  
-- ✉️ **marciopaivagil@gmail.com**  
+### 📊 Minhas Estatísticas no GitHub
 
----
+![Estatísticas do GitHub de MarcioGil](https://github-readme-stats.vercel.app/api?username=MarcioGil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-## 📊 Métricas & Stats
-
-![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciogil&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogil&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marciogil&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marciogil&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-⚡ Curiosidade: fora da programação, sou fã de Cinema, História, Literatura e Futebol.
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGil&layout=compact&langs_count=7&theme=dracula)
