@@ -25,25 +25,18 @@ Aqui estão alguns projetos que desenvolvi e que demonstram minhas habilidades.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🏁 **[Simulador de Corridas Mario Kart](https://github.com/MarcioGil/Simulador_Mario_Kart.git)** | Os personagens irão correr em uma pista aleatória de 5 rodadas
-A cada rodada, será sorteado um bloco da pista que pode ser uma reta, curva ou confronto
-Caso o bloco da pista seja uma RETA, o jogador deve jogar um dado de 6 lados e somar o atributo VELOCIDADE, quem vencer ganha um ponto
-Caso o bloco da pista seja uma CURVA, o jogador deve jogar um dado de 6 lados e somar o atributo MANOBRABILIDADE, quem vencer ganha um ponto
-Caso o bloco da pista seja um CONFRONTO, o jogador deve jogar um dado de 6 lados e somar o atributo PODER, quem perder, perde um ponto
-Nenhum jogador pode ter pontuação negativa (valores abaixo de 0)
-Condição de vitória:
-
-Ao final, vence quem acumulou mais pontos. | `JavaScript`, `Node.js` |
-| 🌐 **[Meu Portfólio Profissional](https://github.com/MarcioGil/meu-portfolio_profissional.git)** | Página de portfólio pessoal para apresentar minhas habilidades e projetos. | `HTML`, `CSS` |
-| 💡 **[Comportamentos e propriedades comuns a smartphones](https://github.com/MarcioGil/trilha-net-poo-desafio.git)** | Este projeto é a minha solução para o desafio de programação orientada a objetos (POO) proposto na trilha .NET Developer da Digital Innovation One (DIO). O objetivo principal foi modelar um sistema que abstrai o comportamento de diferentes marcas e modelos de celulares, utilizando os pilares da POO para criar uma arquitetura flexível e reutilizável.
-
-A solução implementa uma classe base abstrata Smartphone, que define os comportamentos e propriedades comuns a todos os celulares. A partir dela, foram criadas classes filhas, como Nokia e Iphone, que herdam esses comportamentos e implementam suas próprias lógicas de acordo com as especificidades de cada marca. | `C#`, `.NET`, `Entity Framework` |
+| 🚗 **[Sistema de Estacionamento](https://github.com/MarcioGil/EstacionamentoApp)** | Aplicação em console para gerenciar a entrada, saída e cobrança de veículos em um estacionamento. | `C#`, `.NET` |
+| 📱 **[Abstraindo um Smartphone](https://github.com/MarcioGil/trilha-net-poo-desafio)** | Projeto que aplica conceitos de Orientação a Objetos (Abstração, Herança, Polimorfismo) para modelar diferentes tipos de smartphones. | `C#`, `.NET` |
+| 🏁 **[Simulador de Corridas Mario Kart](https://github.com/MarcioGil/Simulador_Mario_Kart)** | Simulador de corridas em console que utiliza lógica de programação para determinar o vencedor com base em rolagem de dados e poder dos personagens. | `JavaScript`, `Node.js` |
+| 🌐 **[Portfólio Profissional](https://github.com/MarcioGil/meu-portfolio_profissional)** | Meu portfólio pessoal, desenvolvido para apresentar minhas competências, projetos e informações de contato. | `HTML`, `CSS` |
 
 ---
 
 ### 📫 Como me Encontrar
 
 Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia.
+
+**<-- IMPORTANTE: Não se esqueça de substituir os links `SEU-PERFIL-AQUI` e `SEU-PORTFOLIO-AQUI` pelos seus links reais! -->**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SEU-PORTFOLIO-AQUI/)
@@ -54,5 +47,4 @@ Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sob
 ### 📊 Minhas Estatísticas no GitHub
 
 ![Estatísticas do GitHub de MarcioGil](https://github-readme-stats.vercel.app/api?username=MarcioGil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGil&layout=compact&langs_count=7&theme=dracula)
