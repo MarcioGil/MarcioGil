@@ -36,7 +36,7 @@ Aqui estão alguns projetos que desenvolvi e que demonstram minhas habilidades.
 
 Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/márcio-gil-1b7669309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-gil-1b7669309?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BP%2BZnIiZ6SnujtOBx7u6yOQ%3D%3D)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marciogil.github.io/meu-portfolio_profissional/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciopaivagil@gmail.com)
 
