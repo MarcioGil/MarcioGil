@@ -26,11 +26,17 @@ HTML5 · CSS3 · JavaScript · React · C# · .NET · Java · SQL · Git · GitH
 
 ---
 
-## 🔭 Projetos em Destaque
-- 🚗 **Sistema de Estacionamento** — Aplicação em console para gerenciar entrada, saída e cobrança de veículos. *Aprendi a estruturar melhor classes e aplicar lógica de negócios em C#.*  
-- 📱 **Abstraindo um Smartphone** — Projeto de POO em C#, modelando smartphones e funcionalidades. *Me ajudou a consolidar conceitos fundamentais de orientação a objetos.*  
-- 🏁 **Simulador de Corridas Mario Kart** — Projeto em Node.js que simula corridas e define vencedores com base em regras. *Exercício divertido que reforçou lógica de programação e manipulação de dados.*  
-- 🌐 **Portfólio Profissional** — Criado em HTML e CSS, responsivo e acessível, para apresentar minhas competências e contatos. *Primeiro passo para minha marca pessoal online.*  
+### 🔭 Projetos em Destaque
+
+Aqui estão alguns projetos que desenvolvi e que demonstram minhas habilidades.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🚗 **[Sistema de Estacionamento](https://github.com/MarcioGil/EstacionamentoApp)** | Aplicação em console para gerenciar a entrada, saída e cobrança de veículos em um estacionamento. | `C#`, `.NET` |
+| 📱 **[Abstraindo um Smartphone](https://github.com/MarcioGil/trilha-net-poo-desafio)** | Projeto que aplica conceitos de Orientação a Objetos para modelar diferentes tipos de smartphones. | `C#`, `.NET` |
+| 🏁 **[Simulador de Corridas Mario Kart](https://github.com/MarcioGil/Simulador_Mario_Kart)** | Simulador de corridas em console para determinar um vencedor com base na lógica de programação. | `JavaScript`, `Node.js` |
+| 🌐 **[Portfólio Profissional](https://github.com/MarcioGil/meu-portfolio_profissional)** | Meu portfólio pessoal, desenvolvido para apresentar minhas competências, projetos e informações de contato. | `HTML`, `CSS` |
+
 
 ---
 
