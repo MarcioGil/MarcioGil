@@ -36,11 +36,20 @@ Aqui estão alguns projetos que desenvolvi e que demonstram minhas habilidades.
 
 Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia.
 
-**<-- IMPORTANTE: Não se esqueça de substituir os links `SEU-PERFIL-AQUI` e `SEU-PORTFOLIO-AQUI` pelos seus links reais! -->**
-
+<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/márcio-gil-1b7669309)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marciogil.github.io/meu-portfolio_profissional/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciopaivagil@gmail.com)
+=======
+
+=======
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/márcio-gil-1b7669309)
+=======
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/márcio-gil-1b7669309)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marciogil.github.io/meu-portfolio_profissional/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciopaivagil@gmail.com)
+
 
 ---
 
