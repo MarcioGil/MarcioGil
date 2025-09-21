@@ -1,35 +1,52 @@
-👋 Olá, eu sou o Márcio Gil!
+# 👋 Olá, eu sou o Márcio Gil!
 
-🎓 Estudante do 4º período de Engenharia de Software
-🚀 Embaixador DIO Campus Expert, atuando em comunidade e compartilhando conhecimento
-💡 Apaixonado por tecnologia, inovação e pelas possibilidades da IA Generativa no aprendizado e no desenvolvimento de soluções
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/márcio-gil-1b7669309) [![Website](https://img.shields.io/badge/Portfolio-Website-green?logo=github)](https://marciogil.github.io/meu-portfolio_profissional/) [![Email](https://img.shields.io/badge/Email-marciopaivagil@gmail.com-c14438?style=flat-square&logo=gmail)]
 
-🔭 O que você encontra por aqui
+🎓 Estudante do **4º período de Engenharia de Software**  
+🚀 **Embaixador DIO Campus Expert** — comunidade e compartilhamento  
+💡 Foco em **Desenvolvimento Web**, **Boas práticas** e **IA Generativa** para acelerar aprendizado
 
-Projetos acadêmicos e pessoais de Engenharia de Software
+---
 
-Explorações práticas em Desenvolvimento Web e Boas Práticas de Código
+## 🔭 O que você encontra por aqui
+- Projetos acadêmicos e pessoais de **Engenharia de Software**
+- Explorações em **Desenvolvimento Web** e **Boas práticas de código**
+- Experimentos com **IA Generativa** aplicados ao estudo e produtividade
 
-Experimentos e estudos aplicados em IA Generativa para acelerar o aprendizado
+---
 
-🌱 Estou aprendendo
+## 🌱 Estou aprendendo
+- Full Stack Development
+- Cloud Computing
+- IA Generativa para produtividade e prototipagem
 
-Full Stack Development com foco em aplicações reais
+---
 
-Cloud Computing e tecnologias emergentes
+## 👯 Vamos colaborar?
+Gosto de compartilhar e aprender junto. Tem um projeto ou ideia? Vamos conversar!
 
-IA Generativa como ferramenta de produtividade e inovação
+---
 
-👯 Vamos colaborar?
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/márcio-gil-1b7669309  
+- Portfólio: https://marciogil.github.io/meu-portfolio_profissional/  
+- Email: marciopaivagil@gmail.com
 
-Adoro trocar ideias, aprender junto e explorar novas soluções. Se você tem um projeto, iniciativa ou só quer bater um papo sobre tecnologia, bora conversar!
+---
 
-📫 Como me encontrar
+## 🏆 GitHub Cards & Stats
+<!-- trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=marciogil)](https://github.com/ryo-ma/github-profile-trophy)
 
-💼 LinkedIn
+<!-- github stats -->
+![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciogil&show_icons=true&theme=tokyonight)
 
-🌐 Portfólio/Site Pessoal
+<!-- top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogil&layout=compact)
 
-✉️ marciopaivagil@gmail.com
+<!-- streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marciogil)
+
+---
 
 ⚡ Curiosidade: fora da programação, sou fã de Cinema, História, Literatura e Futebol.
