@@ -38,8 +38,8 @@ Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sob
 
 **<-- IMPORTANTE: Não se esqueça de substituir os links `SEU-PERFIL-AQUI` e `SEU-PORTFOLIO-AQUI` pelos seus links reais! -->**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-gil-1b7669309?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjQpe5xO7RnGyYvoVlKiG3g%3D%3D)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marciogil.github.io/meu-portfolio_profissional/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SEU-PORTFOLIO-AQUI/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciopaivagil@gmail.com)
 
 ---
