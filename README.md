@@ -46,4 +46,9 @@ HTML5 · CSS3 · JavaScript · React · C# · .NET · Java · SQL · Git · GitH
 Adoro trocar ideias e aprender com pessoas que compartilham a mesma paixão por tecnologia.  
 Se tiver interesse em projetos colaborativos, ideias inovadoras ou simplesmente quiser conversar sobre programação, será um prazer conectar!  
 
+- 💼 [LinkedIn](https://linkedin.com/in/márcio-gil-1b7669309)  
+- 🌐 [Portfólio](https://marciogil.github.io/meu-portfolio_profissional/)  
+- ✉️ [Email](mailto:marciopaivagil@gmail.com)
+
+
 ⚡ Curiosidade: fora do mundo tech, sou apaixonado por **Cinema, História, Literatura e Futebol**.  
