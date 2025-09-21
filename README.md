@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Site-green?logo=github)](https://marciogil.github.io/meu-portfolio_profissional/)
 [![Email](https://img.shields.io/badge/Email-marciopaivagil@gmail.com-red?logo=gmail)](mailto:marciopaivagil@gmail.com)
 
-<img align="right" alt="Márcio Gil" width="180" src="https://avatars.githubusercontent.com/u/172930068?s=400&u=f125106ed625b4fc5dd1804c45c047cf739e7a76&v=4" />
+<img align="right" alt="Márcio Gil" width="180" src="https://private-us-east-1.manuscdn.com/sessionFile/1P1myL801siXFhiDKnXjGJ/sandbox/Rx5RTkjWeyVxAs7ZHyVYOn_1758479535000_na1fn_bGlua2VkaW5fYXZhdGFy.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvMVAxbXlMODAxc2lYRmhpREtuWGpHSi9zYW5kYm94L1J4NVJUa2pXZXlWeEFzN1pIeVZZT25fMTc1ODQ3OTUzNTAwMF9uYTFmbl9iR2x1YTJWa2FXNWZZWFpoZEdGeS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=JdWoaHGEyf5GbyoH3JAyJVMWpdrIR8j8c0GzvIt5TdKkX4fNQRVhXmpMjVf-RJAWtDavs8aBxx--FoziNmWLkcXYetg03Sp~fzOlBN8hfLp0S0dyqxWvFmay8jSeLPSHFyPYLwAB5lyLZDrk7Tjro8PgcGF8-t3S8dPBy9XTkpgK6CeYPVQly5p9TLNHeC70pqIs3H29CGRQKVjBxEtNDmEV~lStBWNBpIgOyrWvdj-xXHCyaZc4-n0cNHf5GabDaltWEBUiFN819puSskS-YXx4X1vUVZl~adSm5bd7ELUxtlI6CoyvwfIU~58NBh5z-2bCpVIC7f08xJ1ioQnNFg__" />
 
 🎓 Estudante do **4º período de Engenharia de Software**  
 🚀 **Embaixador DIO Campus Expert**  
