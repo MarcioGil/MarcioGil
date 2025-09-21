@@ -1,4 +1,4 @@
-# Márcio Gil | Desenvolvedor de Software & Entusiasta de IA
+# Márcio Gil | Desenvolvedor de Software | Engenharia de Software | Full Stack | IA Generativa
 
 Olá! Sou estudante de Engenharia de Software e Embaixador DIO Campus Expert, apaixonado por transformar ideias em código e resolver problemas complexos. Atualmente, estou focado em desenvolvimento Full Stack e exploro o potencial da IA Generativa para criar soluções mais inteligentes e eficientes.
 
