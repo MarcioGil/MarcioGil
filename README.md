@@ -1,8 +1,4 @@
-# 👋 Olá, eu sou o Márcio Gil!
-
-<p align="center">
-  <img src="/home/ubuntu/linkedin_avatar.png" alt="Márcio Gil Avatar" width="200"/>
-</p>
+# 👋 Olá, eu sou o Márcio Gil
 
 Sou um estudante de Engenharia de Software apaixonado por tecnologia e inovação. Atualmente no 4º período, busco constantemente aprimorar minhas habilidades e explorar novas fronteiras no desenvolvimento de software, com um foco especial em IA Generativa para criar soluções eficientes e criativas.
 
