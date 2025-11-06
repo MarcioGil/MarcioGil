@@ -7,7 +7,8 @@
 
 ---
 
-### 🌟 Sobre Mim
+## 🌟 Sobre Mim
+
 Desde a juventude, sempre vi na tecnologia uma ponte entre o sonho e a realidade.  
 Como estudante e desenvolvedor em formação, tenho buscado unir **competência técnica, empatia e propósito**, criando soluções que simplifiquem a vida das pessoas e ampliem oportunidades de inclusão digital.
 
@@ -18,7 +19,7 @@ Como Embaixador da **DIO Campus Expert**, tenho a missão de inspirar e apoiar n
 
 ---
 
-### 🎯 Missão, Visão e Valores
+## 🎯 Missão, Visão e Valores
 
 💡 **Missão:**  
 Criar soluções tecnológicas acessíveis, educativas e inovadoras, que gerem impacto positivo e ampliem o acesso ao conhecimento.  
@@ -35,7 +36,7 @@ Ser reconhecido como um desenvolvedor comprometido com o uso ético e transforma
 
 ---
 
-### 🧠 Habilidades Técnicas
+## 🧠 Habilidades Técnicas
 
 | Categoria | Tecnologias |
 |:-----------|:------------|
@@ -47,17 +48,9 @@ Ser reconhecido como um desenvolvedor comprometido com o uso ético e transforma
 
 ---
 
-### 💼 Projetos em Destaque
+## 💼 Projetos em Destaque
+
 🔹 [**Mãe Conectada**](#)  
 🔹 [**Jornada Ativa**](#)  
 🔹 [**NeuroBridge IA**](#)  
-🔗 [**Ver todos os projetos no meu GitHub »**](https://github.com/MarcioGil?tab=repositories)
-
----
-
-## 🏆 Troféus e Estatísticas do GitHub
-
-<div align="center">
-
-### 🏅 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ma)
+🔗 [**Ver todos os projetos no meu GitHub »**](https://github.com/M)
