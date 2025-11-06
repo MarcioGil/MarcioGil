@@ -53,4 +53,4 @@ Ser reconhecido como um desenvolvedor comprometido com o uso ético e transforma
 🔹 [**Mãe Conectada**](#)  
 🔹 [**Jornada Ativa**](#)  
 🔹 [**NeuroBridge IA**](#)  
-🔗 [**Ver todos os projetos no meu GitHub »**](https://github.com/M)
+🔗 [**Ver todos os projetos no meu GitHub »**](https://github.com/MarcioGil?)
