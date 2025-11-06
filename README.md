@@ -1,33 +1,37 @@
 <h1 align="center">👋 Olá, eu sou o Márcio Gil</h1>
 
 <p align="center">
-🎓 <b>Estudante de Engenharia de Software</b> | 🚀 <b>Embaixador DIO Campus Expert</b> <br>
-💻 Apaixonado por <b>tecnologia, educação, inovação</b> e <b>justiça social</b>.
+  <a href="https://www.linkedin.com/in/márcio-gil-1b7669309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://marciogil.github.io/curriculum-vitae/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:marciogil.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌟 Sobre Mim
+### 🚀 Sobre Mim
 
-Desde a juventude, sempre vi na tecnologia uma ponte entre o sonho e a realidade.  
-Como estudante e desenvolvedor em formação, tenho buscado unir **competência técnica, empatia e propósito**, criando soluções que simplifiquem a vida das pessoas e ampliem oportunidades de inclusão digital.
+Sou **Embaixador DIO Campus Expert** e **estudante de Engenharia de Software**, apaixonado por **tecnologia, educação, inovação e justiça social**.  
+Acredito que **o conhecimento compartilhado é o caminho mais curto entre uma boa ideia e uma grande transformação.**
 
-Trago uma trajetória que combina **visão empreendedora**, **espírito colaborativo** e **profundo interesse pelo impacto social da tecnologia**.  
-Como Embaixador da **DIO Campus Expert**, tenho a missão de inspirar e apoiar novos talentos, conectando educação e prática tecnológica com sensibilidade humana.
-
-> “A tecnologia é o instrumento, mas a empatia é o propósito.”
+💬 “A tecnologia é o instrumento, mas a empatia é o propósito.”
 
 ---
 
-## 🎯 Missão, Visão e Valores
+### 🎯 Missão, Visão e Valores
 
-💡 **Missão:**  
-Criar soluções tecnológicas acessíveis, educativas e inovadoras, que gerem impacto positivo e ampliem o acesso ao conhecimento.  
+**💡 Missão:**  
+Criar soluções tecnológicas acessíveis e educativas que gerem impacto positivo e ampliem o acesso ao conhecimento.  
 
-🌍 **Visão:**  
-Ser reconhecido como um desenvolvedor comprometido com o uso ético e transformador da tecnologia, unindo inteligência técnica e sensibilidade social.  
+**🌍 Visão:**  
+Ser reconhecido como um desenvolvedor comprometido com o uso ético e transformador da tecnologia.  
 
-🌱 **Valores:**  
+**🌱 Valores:**  
 - Humildade para aprender sempre  
 - Empatia como base da colaboração  
 - Inovação com propósito  
@@ -36,21 +40,44 @@ Ser reconhecido como um desenvolvedor comprometido com o uso ético e transforma
 
 ---
 
-## 🧠 Habilidades Técnicas
+### 🧠 Habilidades Técnicas
 
 | Categoria | Tecnologias |
-|:-----------|:------------|
+|------------|-------------|
 | **Linguagens** | HTML5 · CSS3 · JavaScript · Python · Java · C# · SQL |
-| **Frameworks e Bibliotecas** | React · .NET |
+| **Frameworks/Bibliotecas** | React · .NET |
 | **Cloud & DevOps** | Azure · AWS |
-| **Ferramentas** | Git · GitHub · VS Code |
+| **Ferramentas** | Git · GitHub · VSCode |
 | **Conceitos** | POO · Inteligência Artificial Generativa · Arquitetura Full Stack |
 
 ---
 
-## 💼 Projetos em Destaque
+### 💼 Projetos em Destaque
 
-🔹 [**Mãe Conectada**](#)  
-🔹 [**Jornada Ativa**](#)  
-🔹 [**NeuroBridge IA**](#)  
-🔗 [**Ver todos os projetos no meu GitHub »**](https://github.com/MarcioGil?)
+🔹 [**Mãe Conectada**](#) – App educacional para mães periféricas  
+🔹 [**Jornada Ativa**](#) – Plataforma de aprendizado gamificada  
+🔹 [**NeuroBridge IA**](#) – Integração entre IA e educação inclusiva  
+🔹 [**Sistema Integrador Empresarial**](https://lnkd.in/gD_aAAR6)
+
+> Confira todos os projetos no meu [GitHub](https://github.com/MarcioGil?tab=repositories)
+
+---
+
+### 🏆 GitHub Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcioGil&theme=onedark&no-frame=true&margin-w=15" alt="Troféus GitHub" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcioGil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGil&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+---
+
+### ⚙️
