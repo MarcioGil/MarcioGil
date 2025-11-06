@@ -1,35 +1,34 @@
 <h1 align="center">👋 Olá, eu sou o Márcio Gil</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/márcio-gil-1b7669309" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://marciogil.github.io/curriculum-vitae/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:marciogil.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MarcioGil&label=👁️%20Visualizações%20no%20perfil&color=blueviolet&style=for-the-badge" alt="Contador de visitas" />
+</p>
+
+<p align="center">
+  <strong>💻 Embaixador DIO Campus Expert | 🎓 Estudante de Engenharia de Software | 🌍 Apaixonado por Tecnologia, Educação e Inovação Social</strong>
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-Sou **Embaixador DIO Campus Expert** e **estudante de Engenharia de Software**, apaixonado por **tecnologia, educação, inovação e justiça social**.  
-Acredito que **o conhecimento compartilhado é o caminho mais curto entre uma boa ideia e uma grande transformação.**
+Sou um profissional com mais de 20 anos de experiência consolidada no setor comercial, hoje em transição de carreira para a área de tecnologia.  
+Estudo Engenharia de Software e sou Embaixador DIO Campus Expert, desenvolvendo projetos que unem **tecnologia, inclusão digital e impacto social**.
 
-💬 “A tecnologia é o instrumento, mas a empatia é o propósito.”
+Minha trajetória combina **visão empreendedora**, **resiliência** e **propósito**.  
+Acredito que o conhecimento compartilhado é o caminho mais curto entre uma boa ideia e uma grande transformação.
+
+> “A tecnologia é o instrumento, mas a empatia é o propósito.”  
 
 ---
 
-### 🎯 Missão, Visão e Valores
+## 🎯 Missão, Visão e Valores
 
 **💡 Missão:**  
-Criar soluções tecnológicas acessíveis e educativas que gerem impacto positivo e ampliem o acesso ao conhecimento.  
+Criar soluções tecnológicas acessíveis, educativas e inovadoras, que ampliem o acesso ao conhecimento.
 
 **🌍 Visão:**  
-Ser reconhecido como um desenvolvedor comprometido com o uso ético e transformador da tecnologia.  
+Ser reconhecido como um desenvolvedor comprometido com o uso ético e transformador da tecnologia.
 
 **🌱 Valores:**  
 - Humildade para aprender sempre  
@@ -40,44 +39,20 @@ Ser reconhecido como um desenvolvedor comprometido com o uso ético e transforma
 
 ---
 
-### 🧠 Habilidades Técnicas
+## 🧠 Habilidades Técnicas
 
 | Categoria | Tecnologias |
 |------------|-------------|
 | **Linguagens** | HTML5 · CSS3 · JavaScript · Python · Java · C# · SQL |
-| **Frameworks/Bibliotecas** | React · .NET |
+| **Frameworks e Bibliotecas** | React · .NET |
 | **Cloud & DevOps** | Azure · AWS |
 | **Ferramentas** | Git · GitHub · VSCode |
-| **Conceitos** | POO · Inteligência Artificial Generativa · Arquitetura Full Stack |
+| **Conceitos** | POO · Arquitetura Full Stack · IA Generativa · APIs |
 
 ---
 
-### 💼 Projetos em Destaque
+## 💼 Projetos em Destaque
 
-🔹 [**Mãe Conectada**](#) – App educacional para mães periféricas  
-🔹 [**Jornada Ativa**](#) – Plataforma de aprendizado gamificada  
-🔹 [**NeuroBridge IA**](#) – Integração entre IA e educação inclusiva  
-🔹 [**Sistema Integrador Empresarial**](https://lnkd.in/gD_aAAR6)
-
-> Confira todos os projetos no meu [GitHub](https://github.com/MarcioGil?tab=repositories)
-
----
-
-### 🏆 GitHub Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcioGil&theme=onedark&no-frame=true&margin-w=15" alt="Troféus GitHub" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcioGil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGil&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
-
-### ⚙️
+- [🌐 Mãe Conectada](#) — Plataforma educativa para inclusão digital de mães periféricas  
+- [🚀 Jornada Ativa](#) — Aplicativo que incentiva o aprendizado contínuo através de desafios gamificados  
+- [🧩 NeuroBridge IA](#) — Solução integradora para educação bas
