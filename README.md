@@ -13,7 +13,7 @@
 ## 🚀 Sobre Mim
 
 Sou um profissional com mais de 20 anos de experiência consolidada no setor comercial, hoje em transição de carreira para a área de tecnologia.  
-Estudo Engenharia de Software e sou Embaixador DIO Campus Expert, desenvolvendo projetos que unem **tecnologia, inclusão digital e impacto social**.
+Atualmente, sou **Embaixador DIO Campus Expert** e estudante do 4º período de **Engenharia de Software**, desenvolvendo projetos que unem **tecnologia, inclusão digital e impacto social**.
 
 Minha trajetória combina **visão empreendedora**, **resiliência** e **propósito**.  
 Acredito que o conhecimento compartilhado é o caminho mais curto entre uma boa ideia e uma grande transformação.
@@ -55,4 +55,68 @@ Ser reconhecido como um desenvolvedor comprometido com o uso ético e transforma
 
 - [🌐 Mãe Conectada](#) — Plataforma educativa para inclusão digital de mães periféricas  
 - [🚀 Jornada Ativa](#) — Aplicativo que incentiva o aprendizado contínuo através de desafios gamificados  
-- [🧩 NeuroBridge IA](#) — Solução integradora para educação bas
+- [🧩 NeuroBridge IA](#) — Solução integradora para educação baseada em Inteligência Artificial  
+
+👉 Veja todos os projetos no meu [Portfólio Online](https://marciogil.github.io/curriculum-vitae/) ou no [GitHub](https://github.com/MarcioGil).
+
+---
+
+## 🏆 Troféus GitHub
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcioGil&theme=tokyonight&no-frame=true&margin-w=5&column=6)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcioGil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGil&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcioGil&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💹 Resumo Visual do Perfil
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcioGil&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcioGil&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcioGil&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcioGil&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcioGil&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Vamos nos Conectar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/márcio-gil-1b7669309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://marciogil.github.io/curriculum-vitae/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio%20Online-000?style=for-the-badge" alt="Portfólio">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarcioGil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<p align="center">💬 “A tecnologia é o instrumento, mas a empatia é o propósito.” — Márcio Gil</p>
